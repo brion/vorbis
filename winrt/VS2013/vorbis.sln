@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Windows
 VisualStudioVersion = 12.0.30324.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libvorbisfile", "libvorbisfile\libvorbisfile_dynamic.vcxproj", "{CEBDE98B-A6AA-46E6-BC79-FAAF823DB9EC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libvorbisfile.Windows", "libvorbisfile.Windows\libvorbisfile.Windows.vcxproj", "{CEBDE98B-A6AA-46E6-BC79-FAAF823DB9EC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libvorbis", "libvorbis\libvorbis_dynamic.vcxproj", "{3A214E06-B95E-4D61-A291-1F8DF2EC10FD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libvorbis.Windows", "libvorbis.Windows\libvorbis.Windows.vcxproj", "{3A214E06-B95E-4D61-A291-1F8DF2EC10FD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libvorbis", "libvorbis", "{136A08CC-DF54-42B6-9EAB-476A2A53A27E}"
 EndProject
